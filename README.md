@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,45 +9,49 @@
     
 </body>
 </html>
-<div class="estudante-todos">
-    <div class="estudante-div">
-        <img class="estudante-imagem" src="Marcelo.jpeg" alt="foto do marcelo">
-        <h3 class="estudante-nome">Marcelo</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
-    </div>
-    <div class="estudante-div">
-        <img class="estudante-imagem" src="Marcelo.jpeg" alt="foto do marcelo">
-        <h3 class="estudante-nome">Marcelo</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
-    </div>
-</div>
 
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <!DOCTYPE **html**>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>AluraBooks</title>
-        <link rel=”stylesheet” href=”styles.css”>
-    </head>
-    <body>
-
-    </body>
-</html>
-
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
-</body>
-</html
+    <h2>Alunos da turma x</h2>
+    <div class="grade-alunos">
+       
+    <div class="caixa-aluno">
+        <img class="girafa"src="1.jpeg" alt="imagem de girafa">
+        <h1>Carlinho</h1>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+       
+    <div class="caixa-aluno">
+        <img class="girafa"src="2.jpeg" alt="imagem de girafa">
+        <h1>Roberto</h1>
+<link rel="stylesheet" href="style.css">
+ </head>
+<body>
+           
+    <div class="caixa-aluno">
+        <img class="girafa"src="3.jpeg" alt="imagem de girafa">
+        <h1>Fred</h1>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+               
+    <div class="caixa-aluno">
+        <img class="girafa"src="4.jpeg" alt="imagem de girafa">
+        <h1>Joana</h1>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+       
+    <div class="caixa-aluno">
+        <img class="girafa"src="5.jpeg" alt="imagem de girafa">
+        <h1>Maria</h1>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+       
+    <div class="caixa-aluno">
+        <img class="girafa"src="6.jpeg" alt="imagem de girafa">
+        <h1>Sheldon</h1>
+        
